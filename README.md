@@ -102,7 +102,7 @@ Currently, the network operates with an open security model to emphasize core co
 ---
 
 
-## 📖 How to Use
+## How to Use
 
 1. Open the `.pkt` file in Cisco Packet Tracer.
 2. Power on all devices and ensure all cables are connected.
